@@ -1,5 +1,6 @@
 
 
+
 <div align="center">
 
 <img
@@ -7,7 +8,6 @@
   width="100%"
   alt="Jenan Owies - Computer Systems Engineer"
 />
-
 
 <br/>
 
@@ -18,13 +18,14 @@
   <img src="https://img.shields.io/badge/LinkedIn-7041B8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
+
+<p>
+  <em>Building ideas into practical solutions</em> 💜
+</p>
+
 </div>
 
-
-**Building ideas into practical solutions.**
-
-</div>
 
 ---
 
