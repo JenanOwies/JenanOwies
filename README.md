@@ -1,17 +1,25 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:6C3CE9,100:9B7BDB,100:DCCBFF&text=Jenan%20Owies&fontColor=ffffff&fontSize=58&fontAlignY=42&desc=Computer%20Systems%20Engineer%20%7C%20Software%20Developer&descAlignY=63&descSize=17&animation=fadeIn" width="100%" />
+<div align="center">
 
-<br/>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:3B1B70,45:7041B8,100:B99AE8&text=Jenan%20Owies&fontColor=FFFFFF&fontSize=72&fontAlign=50&fontAlignY=40&desc=COMPUTER%20SYSTEMS%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descSize=16&descAlign=50&descAlignY=62&animation=fadeIn"
+  width="100%"
+  alt="Jenan Owies"
+/>
+
+<br/><br/>
 
 <a href="https://github.com/JenanOwies">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-242038?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/jenan-owies-4376b7232/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-7041B8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
+
+</div>
+
 
 **Building ideas into practical solutions.**
 
