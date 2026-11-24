@@ -8,8 +8,6 @@
   alt="Jenan Owies - Computer Systems Engineer"
 />
 
-</div>
-
 
 <br/>
 
