@@ -2,9 +2,9 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:6C3CE9,50:9B7BDB,100:DCCBFF&text=Jenan%20Owies&fontColor=FFFFFF&fontSize=64&fontAlign=50&fontAlignY=42&desc=COMPUTER%20SYSTEMS%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descSize=16&descAlign=50&descAlignY=60&animation=fadeIn"
-  width="200%"
-  alt="Jenan Owies"
+  src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0:6C3CE9,50:9B7BDB,100:DCCBFF&text=Jenan%20Owies&fontColor=FFFFFF&fontSize=72&fontAlign=50&fontAlignY=42&desc=COMPUTER%20SYSTEMS%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descSize=16&descAlign=50&descAlignY=60&animation=fadeIn"
+width="100%"
+alt="Jenan Owies"
 />
 
 <br/>
