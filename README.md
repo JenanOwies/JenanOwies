@@ -16,7 +16,9 @@
 <a href="https://www.linkedin.com/in/jenan-owies-4376b7232/">
   <img src="https://img.shields.io/badge/LinkedIn-7041B8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<p>
 
+</p>
 <p>
   <em>Building ideas into practical solutions</em> 💜
 </p>
