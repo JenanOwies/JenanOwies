@@ -1,6 +1,7 @@
 
 
 
+
 <div align="center">
 
 <img
@@ -9,8 +10,6 @@
   alt="Jenan Owies - Computer Systems Engineer"
 />
 
-<br/>
-
 <a href="https://github.com/JenanOwies">
   <img src="https://img.shields.io/badge/GitHub-242038?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -18,13 +17,12 @@
   <img src="https://img.shields.io/badge/LinkedIn-7041B8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/>
-
 <p>
   <em>Building ideas into practical solutions</em> 💜
 </p>
 
 </div>
+
 
 
 ---
