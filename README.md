@@ -44,6 +44,7 @@
 
 ---
 
+
 <h2 align="center">⚡ TECH STACK</h2>
 
 <h3 align="center">Programming Languages</h3>
@@ -53,7 +54,7 @@
 
 <h3 align="center">Development & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,linux,vscode,androidstudio,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,arduino,git,github,linux,vscode,androidstudio,figma&theme=light" />
 </p>
 
 <h3 align="center">Technical Areas</h3>
@@ -66,6 +67,7 @@
   <img src="https://img.shields.io/badge/QA-9370DB?style=flat-square"/>
   <img src="https://img.shields.io/badge/Ethical_Hacking-6C3CE9?style=flat-square"/>
 </p>
+
 
 ---
 
