@@ -31,13 +31,16 @@
 
 <h2 align="center">✦ ABOUT ME ✦</h2>
 
+
 <p align="center">
-  Computer Systems Engineering graduate with an interest in
-  <b>Software Development, Machine Learning, Embedded Systems, and Networking.</b>
+  Computer Systems Engineering graduate passionate about
+  <b>Software Development and Technology.</b>
   <br/>
-  Currently working as a <b>Technical Support Representative at Jawwal</b>,
-  combining technical problem-solving with hands-on engineering experience.
+  Driven by problem-solving, building practical solutions, and turning ideas into reality.
+  <br/>
+  Always learning, exploring new technologies, and growing as an engineer and developer. 💜
 </p>
+
 
 ---
 
