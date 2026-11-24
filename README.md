@@ -1,170 +1,96 @@
-<!-- ================= HEADER ================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:DDD6FE,50:C4B5FD,100:A78BFA&text=JENAN%20OWIES&fontColor=3B0764&fontSize=55&fontAlignY=45&desc=COMPUTER%20SYSTEMS%20ENGINEER%20%7C%20TECH%20ENTHUSIAST&descSize=14&descAlignY=68&descColor=4C1D95"/>
+<img src="assets/profile-header.svg" alt="Jenan Owies — Computer Systems Engineer" width="100%" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Software+Development+%26+Engineering;Artificial+Intelligence+%26+Machine+Learning;IoT+%26+Embedded+Systems;Networking+%26+Technology" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/jenan-owies-4376b7232/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/JenanOwies">
-<img src="https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/jenan-owies-4376b7232/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/JenanOwies">GitHub</a>
+</p>
 
 </div>
 
-<br/>
-
-<!-- ================= ABOUT ================= -->
-
-## 👩🏻‍💻 About Me
-
-Hello! I'm **Jenan Owies**, a Computer Systems Engineering graduate from the Arab American University.
-
-I'm passionate about technology and enjoy exploring different areas of engineering, from software development and artificial intelligence to networking and embedded systems.
-
-- 🎓 B.Sc. in Computer Systems Engineering (2024)
-- 💼 Technical Support Representative at Jawwal
-- 🌐 Interested in software engineering and networking
-- 🤖 Exploring AI, Machine Learning, and IoT
-- 🚀 Passionate about building practical technology solutions
-
 ---
 
-<!-- ================= SKILLS ================= -->
+## Profile
 
-## 🛠️ Technologies & Tools
+Computer Systems Engineering graduate from **Arab American University** (2024), currently working as a **Technical Support Representative at Jawwal**.
 
-### Programming Languages
+My background combines software development, networking, and hands-on embedded systems projects. I enjoy understanding how systems work end to end — from code and hardware to connectivity and user experience.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,dart&theme=light" />
-</p>
-
-### Frameworks & Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,firebase,django,git,github&theme=light" />
-</p>
-
-### Embedded Systems & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=arduino,linux,vscode,androidstudio,figma&theme=light" />
-</p>
-
-### Technical Areas
-
-`Networking` `TCP/IP` `Network Troubleshooting` `IoT` `Embedded Systems` `Software Testing` `Cybersecurity`
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 Featured Projects
+## Selected Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-<h3>🎓 A Secure Bracelet in Closed Spaces</h3>
+### A Secure Bracelet in Closed Spaces
 
-An IoT-based child safety system designed to monitor environmental conditions inside enclosed vehicles and trigger alerts when dangerous conditions are detected.
+A child-safety prototype designed to monitor conditions inside closed vehicles and trigger alerts and automated responses.
 
-**Technologies:** Arduino UNO, ESP8266, Sensors, Flutter, Firebase.
+**Focus:** Embedded Systems · IoT · Mobile Development
 
-</td>
-<td width="50%" valign="top">
+`Arduino UNO` `ESP8266` `Flutter` `Firebase`
 
-<h3>🌐 PathwayGaza</h3>
+    </td>
+    <td width="50%" valign="top">
 
-An educational platform designed to support students through digital learning resources, subjects, materials, and academic services.
+### ESP32-CAM Surveillance Car
 
-**My Contribution:** Frontend Development, UI/UX, and Integration.
+A remotely controlled car with live camera streaming and a web interface for vehicle controls.
 
-**Technologies:** Flutter Web, Django REST Framework.
+**Focus:** Embedded Systems · WebSockets · IoT
 
-<a href="https://github.com/hudamabed/PathwayGaza">View Repository →</a>
+`ESP32-CAM` `JavaScript` `WebSockets`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-<h3>🤖 Multi-Task Tracking Robot</h3>
+### PathwayGaza
 
-A multifunctional robot combining human tracking, line following, and mobile-based control.
+An educational platform for organizing learning materials, subjects, exams, and student grades.
 
-**Technologies:** Robotics, Arduino, Embedded Systems.
+**My contribution:** Frontend Development · UI/UX · Integration
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/hudamabed/PathwayGaza">View repository ↗</a>
 
-<h3>📷 ESP32-CAM Surveillance Car</h3>
+    </td>
+    <td width="50%" valign="top">
 
-A smart surveillance car featuring live camera streaming, remote motor control, and a web-based control interface.
+### Multi-Task Tracking Robot
 
-**Technologies:** ESP32-CAM, Arduino Framework, WebSockets.
+A robotics project combining human tracking, line following, and mobile-based control.
 
-</td>
-</tr>
+**Focus:** Robotics · Embedded Systems
+
+    </td>
+  </tr>
 </table>
 
+## Technical Areas
+
+| Area | Technologies and concepts |
+|---|---|
+| Programming | Python · Java · C++ · C# · JavaScript · Dart · SQL |
+| Software development | Flutter · Firebase · REST APIs · OOP |
+| Embedded systems & IoT | Arduino · ESP32 · ESP32-CAM · NodeMCU |
+| Networking | TCP/IP · OSI model · IP addressing · Routing · Troubleshooting |
+| Tools | Git · GitHub · Linux · VS Code · Android Studio · Figma |
+| Additional knowledge | Machine Learning · QA · Ethical Hacking |
+
+## Experience
+
+**Technical Support Representative — Jawwal**  
+*November 2025 – Present*
+
+- Troubleshoot Fiber and xDSL connectivity issues.
+- Diagnose router configurations and network-related problems.
+- Explain technical issues and solutions clearly to customers.
+
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-
-## 📊 GitHub Overview
-
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JenanOwies&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=8B5CF6&text_color=475569"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenanOwies&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=475569"/>
-
+  <sub>Curious by nature. Practical by design. Always learning.</sub>
 </div>
-
----
-
-<!-- ================= CONNECT ================= -->
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, collaborating, and exploring new opportunities in technology.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jenan-owies-4376b7232/">
-<img src="https://img.shields.io/badge/LinkedIn-Jenan%20Owies-7C3AED?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/JenanOwies">
-<img src="https://img.shields.io/badge/GitHub-JenanOwies-6D28D9?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<i>Building skills, creating solutions, and growing through technology. 💜</i>
-
-</div>
-
-<!--
-**JenanOwies/JenanOwies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
