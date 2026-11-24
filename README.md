@@ -1,11 +1,15 @@
 
+
 <div align="center">
 
 <img
-   src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:6C3CE9,50:9B7BDB,100:DCCBFF&text=Jenan%20Owies&fontColor=FFFFFF&fontSize=64&fontAlign=50&fontAlignY=42&desc=COMPUTER%20SYSTEMS%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descSize=16&descAlign=50&descAlignY=60&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3CE9,35:9B7BDB,70:C5B4F3,100:E9DFFF&height=280&section=header&text=Jenan%20Owies&fontSize=64&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=COMPUTER%20SYSTEMS%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descSize=15&descAlign=50&descAlignY=57&animation=fadeIn"
   width="100%"
-  alt="Jenan Owies"
+  alt="Jenan Owies - Computer Systems Engineer"
 />
+
+</div>
+
 
 <br/>
 
