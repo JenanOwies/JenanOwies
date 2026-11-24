@@ -2,12 +2,12 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:3B1B70,45:7041B8,100:B99AE8&text=Jenan%20Owies&fontColor=FFFFFF&fontSize=72&fontAlign=50&fontAlignY=40&desc=COMPUTER%20SYSTEMS%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descSize=16&descAlign=50&descAlignY=62&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:6C3CE9,50:9B7BDB,100:DCCBFF&text=Jenan%20Owies&fontColor=FFFFFF&fontSize=64&fontAlign=50&fontAlignY=42&desc=COMPUTER%20SYSTEMS%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descSize=16&descAlign=50&descAlignY=60&animation=fadeIn"
   width="100%"
   alt="Jenan Owies"
 />
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/JenanOwies">
   <img src="https://img.shields.io/badge/GitHub-242038?style=for-the-badge&logo=github&logoColor=white"/>
@@ -17,7 +17,6 @@
 </a>
 
 <br/><br/>
-
 </div>
 
 
