@@ -1,92 +1,188 @@
  <div align="center">
 
-# Jenan Owies
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:6C3CE9,50:9B7BDB,100:DCCBFF&text=Jenan%20Owies&fontColor=ffffff&fontSize=58&fontAlignY=42&desc=Computer%20Systems%20Engineer%20%7C%20Software%20Developer&descAlignY=63&descSize=17&animation=fadeIn" width="100%" />
 
-### Computer Systems Engineer | Software Developer
+<br/>
 
-*Building practical solutions through software, hardware, and technology.*
+<a href="https://github.com/JenanOwies">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jenan-owies-4376b7232/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[GitHub](https://github.com/JenanOwies) · [LinkedIn](https://www.linkedin.com/in/jenan-owies-4376b7232/)
+<br/><br/>
+
+**Building ideas into practical solutions.**
 
 </div>
 
 ---
 
-## ABOUT
+<h2 align="center">✦ ABOUT ME ✦</h2>
 
-Computer Systems Engineering graduate from Arab American University. Currently working as a Technical Support Representative at Jawwal.
+<p align="center">
+  Computer Systems Engineering graduate with an interest in
+  <b>Software Development, Machine Learning, Embedded Systems, and Networking.</b>
+  <br/>
+  Currently working as a <b>Technical Support Representative at Jawwal</b>,
+  combining technical problem-solving with hands-on engineering experience.
+</p>
 
-My interests include software development, machine learning, embedded systems, and networking. I enjoy solving technical problems and turning ideas into practical projects.
+---
 
-## WHAT I WORK WITH
+<h2 align="center">⚡ TECH STACK</h2>
 
-| SOFTWARE DEVELOPMENT | EMBEDDED & IoT |
-|:---|:---|
-| Python · Java · C++ · C# | Arduino · ESP32 · ESP32-CAM |
-| JavaScript · Dart · SQL | NodeMCU · Sensors |
-| Flutter · Firebase · REST APIs | Hardware Integration |
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,dart,sql&theme=light" />
+</p>
 
-| NETWORKING | TOOLS & OTHER |
-|:---|:---|
-| TCP/IP · OSI · Routing | Git · GitHub · Linux |
-| IP Addressing | VS Code · Android Studio |
-| Network Troubleshooting | Machine Learning · QA · Figma |
+<h3 align="center">Development & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,linux,vscode,androidstudio,figma&theme=light" />
+</p>
 
-## SELECTED PROJECTS
+<h3 align="center">Technical Areas</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-6C3CE9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-7952B3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Embedded_Systems-8B65D6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IoT-A78BFA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-C4A7F5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/QA-9370DB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ethical_Hacking-6C3CE9?style=flat-square"/>
+</p>
 
-### 01. A Secure Bracelet in Closed Spaces
+---
 
-A child-safety system designed to monitor conditions inside closed vehicles and trigger alerts and automated responses.
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-**Technologies:** Arduino UNO · ESP8266 · Flutter · Firebase
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 02. ESP32-CAM Surveillance Car
+<h3>💜 A Secure Bracelet in Closed Spaces</h3>
+
+A child-safety system designed to monitor environmental conditions inside closed vehicles and trigger alerts and automated responses.
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📷 ESP32-CAM Surveillance Car</h3>
 
 A remotely controlled vehicle featuring live camera streaming and a web interface for controlling movement.
 
-**Technologies:** ESP32-CAM · WebSockets · JavaScript
+**Technologies**
 
-### 03. PathwayGaza
+<img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebSockets-6C3CE9?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎓 PathwayGaza</h3>
 
 An educational platform for organizing learning materials, subjects, exams, and student grades.
 
-**My contribution:** Frontend Development · UI/UX · Integration
+**My contribution:** Frontend Development, UI/UX, and Integration.
 
-[Explore Project](https://github.com/hudamabed/PathwayGaza)
+<a href="https://github.com/hudamabed/PathwayGaza">
+  <img src="https://img.shields.io/badge/View_Project-6C3CE9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 04. Multi-Task Tracking Robot
+</td>
+<td width="50%" valign="top">
+
+<h3>🤖 Multi-Task Tracking Robot</h3>
 
 A multifunctional robot combining human tracking, line following, and mobile-based control.
 
-**Focus:** Robotics · Embedded Systems
+**Focus**
 
-### 05. Machine Learning Projects
+<img src="https://img.shields.io/badge/Robotics-7952B3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embedded_Systems-8B65D6?style=flat-square"/>
 
-Practical work involving data preprocessing, customer segmentation, image classification, and predictive modeling.
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-**Focus:** Python · Data Analysis · Machine Learning
+<h3>🧠 Machine Learning Projects</h3>
 
-## EXPERIENCE
+Practical projects involving data preprocessing, customer segmentation, image classification, and predictive modeling.
 
-**Technical Support Representative — Jawwal**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-6C3CE9?style=flat-square"/>
 
-*November 2025 – Present*
+</td>
+</tr>
+</table>
 
-- Troubleshooting Fiber and xDSL connectivity issues.
-- Diagnosing router configurations and network problems.
-- Providing technical support and explaining solutions to customers.
+---
 
-## EDUCATION
+<h2 align="center">💼 EXPERIENCE & EDUCATION</h2>
 
-**B.Sc. in Computer Systems Engineering**  
-Arab American University · 2020–2024
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>💻 Jawwal</h3>
+
+**Technical Support Representative**
+
+`November 2025 – Present`
+
+- Fiber and xDSL troubleshooting.
+- Router configuration diagnosis.
+- Network connectivity support.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎓 Arab American University</h3>
+
+**B.Sc. Computer Systems Engineering**
+
+`2020 – 2024`
+
+Graduated in four years.
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🌱 CURRENTLY EXPLORING</h2>
+
+<p align="center">
+  Machine Learning &nbsp; • &nbsp; Software Quality Assurance
+  <br/>
+  Embedded Systems &nbsp; • &nbsp; Networking
+</p>
 
 ---
 
 <div align="center">
 
-**Always learning. Always building.**
+### ✨ Always learning. Always building.
 
-[LinkedIn](https://www.linkedin.com/in/jenan-owies-4376b7232/) · [GitHub](https://github.com/JenanOwies)
+<a href="https://github.com/JenanOwies">
+  <img src="https://img.shields.io/badge/Explore_My_GitHub-6C3CE9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3CE9,100:DCCBFF&height=100&section=footer" width="100%"/>
 
 </div>
